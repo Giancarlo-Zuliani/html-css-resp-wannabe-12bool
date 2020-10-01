@@ -8,10 +8,14 @@ body{
   background-color: #f9f9f9;
 }
 
+/* TEXT-ALIGN */
+
 h1 , h3 , p{
   text-align:center;
   padding:20px;
 }
+
+/* IMAGE DIMENSIONS */
 
 img{
   height: 200px;
@@ -19,6 +23,8 @@ img{
   margin-right: auto;
   margin-left: auto;
 }
+
+/* SVG IMAGE DEFINITION */
 
 .whyimg{
   background-color: #428bca;
@@ -30,6 +36,8 @@ img{
 hr{
   margin: 15px;
 }
+
+/* HEADER BACKGROUND */
 
 #headerback{
   background-color: #fff;
