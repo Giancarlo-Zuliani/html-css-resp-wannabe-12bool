@@ -1,12 +1,14 @@
-h1{
-  text-align: center;
+*{
+  box-sizing: border-box;
+  margin:0;
 }
-h3{
-  text-align: center;
-}
-p{
-  text-align: center;
-  padding:10px;
+body{
+  background-color: #f9f9f9;
+  }
+
+h1 , h3 , p{
+  text-align:center;
+  padding:30px;
 }
 
 img{
@@ -21,4 +23,13 @@ img{
   padding: 30px;
   border-radius: 150px;
   margin:30px auto;
+}
+
+hr{
+  margin: 15px;
+}
+
+#headerback{
+  background-color: #fff;
+  width:100vw; 
 }
